@@ -6,4 +6,4 @@ News aggregator using NLP to classify news articles as spam or not.
   
 Contribution: development of the machine learning classification model.
    
-![GoodNews](https://github.com/MarynaLongnickel/Projects/blob/master/GoodNews/GN.JPG)
+![GoodNews](https://github.com/MarynaLongnickel/GoodNews/blob/master/GN.JPG)
